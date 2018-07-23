@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/musicclose.png</file>
+        <file>images/musicopen.png</file>
+        <file>images/123.png</file>
+        <file>images/ChooseBgd.png</file>
+        <file>images/button.jpg</file>
+        <file>images/ctrl.jpg</file>
+        <file>images/buttonb.png</file>
+        <file>images/buttona.png</file>
+        <file>images/logo.png</file>
+        <file>images/logo.jpg</file>
+    </qresource>
+</RCC>
